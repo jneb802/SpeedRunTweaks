@@ -14,7 +14,7 @@ namespace SpeedRunTweaks
     [BepInPlugin(ModGUID, ModName, ModVersion)]
     public class SpeedRunTweaksPlugin : BaseUnityPlugin
     {
-        internal const string ModName = "SpeedRunTweaks";
+        internal const string ModName = "SpeedrunTweaks";
         internal const string ModVersion = "1.0.0";
         internal const string Author = "warpalicious";
         private const string ModGUID = Author + "." + ModName;
